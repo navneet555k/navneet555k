@@ -21,6 +21,8 @@
 
 <br />
 
+<br />
+
 I'm a pre final year undergrad student pursuing B.Tech in Computer Science and Engineering🎓 from Department of Computer Science, Amrita Vishwavidhyapeetham 🏛. I'm a full stack developer and a passionate learner who's always willing to learn and work across technologies and domains 💡.
 
 <br />
